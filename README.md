@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="570" src="https://files.catbox.moe/13eejb.png">
+<img width="650" src="https://files.catbox.moe/13eejb.png">
 </div>
 
 <div align="center">
