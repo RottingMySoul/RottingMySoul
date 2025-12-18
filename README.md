@@ -18,5 +18,5 @@
 </div>
 
 <p align="center"> 
-<a href="https://rottingmysoul.straw.page/">Strawpage</a>
+<a href="https://happylittleboozer.straw.page/">Strawpage</a>
 </p>
